@@ -127,7 +127,7 @@ let activePlayer = 0;
 randomPlayer();
 
 //до скольки играть
-const playUntill = 10;
+const playUntill = 100;
 
 
 /////// END начало ///////////
